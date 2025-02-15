@@ -9,7 +9,7 @@ from PIL import Image
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("dark-blue")
 
-#  Cores do Ubuntu
+#  Cores 
 roxo = "#2C001E"
 laranja = "#E95420"
 oran_claro = "#D75F20"
