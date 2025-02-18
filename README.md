@@ -35,5 +35,6 @@ O status do download será exibido na parte inferior da janela.
 
 ## Contribuindo:
 Se você encontrar algum erro ou tiver sugestões para melhorias, fique à vontade para abrir uma issue ou enviar um pull request!
-Licença:
-#### Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
