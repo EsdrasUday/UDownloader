@@ -79,7 +79,7 @@ entry_url.pack(pady=5)
 frame_opcoes = ctk.CTkFrame(app, fg_color="transparent",width=350)
 frame_opcoes.pack(pady=5)
 
-#  Qualidade e Escolher Pasta (lado a lado)
+#  Qualidade e Escolher Pasta 
 qualidade_var = ctk.StringVar(value="Melhor Qualidade")
 qualidade_menu = ctk.CTkOptionMenu(frame_opcoes, variable=qualidade_var,dropdown_hover_color=oran_claro,button_hover_color=laranja,button_color="#b33205", values=list(backend.QUALIDADE_OPCOES.keys()), fg_color=laranja, text_color=branco)
 qualidade_menu.pack(side="left", expand=True, padx=5, pady=5)
